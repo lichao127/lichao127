@@ -2,9 +2,11 @@
 A seasoned newbie
 
 # Favorite Books
-- Daomu Biji (Grave Robbers’ Chronicles)
-- Jin Yong series
+- 盗墓笔记 (Grave Robbers’ Chronicles)
+- 金庸系列 （Jin Yong series）
 - Sherlock Holmes series
+- The Adventures of Tintin
+- Around the World in 80 Days
 
 # Favorite Websites
 - GitHub
