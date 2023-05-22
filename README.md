@@ -1,6 +1,10 @@
 ### Bio
 A seasoned newbie
 
+### Hobbies
+- crimping cables
+- tuning pianos
+
 ### Favorite Books
 - 盗墓笔记，金庸系列
 - Sherlock Holmes series; The Adventures of Tintin; Around the World in 80 Days
