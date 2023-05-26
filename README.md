@@ -4,6 +4,7 @@ A seasoned newbie
 ### Hobbies
 - crimping cables
 - tuning pianos
+- picking locks (of my own)
 
 ### Favorite Books
 - 盗墓笔记，金庸系列
