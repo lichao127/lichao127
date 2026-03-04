@@ -12,10 +12,12 @@ I value pragmatism, creativity, versatility and kindness.
 - 🌉 I moved to my third hometown, the SF Bay Area, in 2015 and settled down here with my family. I like the Vietnamese food here. Pho and bánh mì are my favorites. They offer a taste of Southeast Asia away from Southeast Asia, and I enjoy exploring "exotic" grocery stores.
 
 ### Hobbies
-- 🧰 crimping cables, tuning pianos, picking locks (of my own)
-- ⛰️ hiking
-- 📚 reading books about history, philosophy, the constructs of governments etc
+- 🔧 Crimping cables, tuning pianos, picking locks (of my own)
+- ⛰️ Hiking
+- 📚 Reading books about history
 - 🎱 15-ball pool
+- 🖌️ Chinese calligraphy
+- 📷 Photography
 
 ### Favorite Books
 - 金庸系列, 盗墓笔记, Sherlock Holmes series, The Adventures of Tintin
